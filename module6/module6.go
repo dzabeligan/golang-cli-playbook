@@ -1,5 +1,5 @@
 package module6
 
-// Function for module 6 doc
+// this is a comment
 func FunctionForModule6GoDoc() {
 }
